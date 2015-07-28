@@ -17,27 +17,27 @@ learn:
     - number: "1"
       
       title: "How to Use DabbledooMusic.com"
-      description: "A guide to our amazing interactive website"
+      description: "A guide to our amazing interactive website, with video tutorials and worksheets"
     - number: "2"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/research.png"
-      title: "Research, Script Writing "
-      description: "Research and script writing techniques that will save you countless hours of production time"
+      
+      title: "Make Your Own Musical Instruments"
+      description: "Music is all around you, and so are the instruments. We will show you how everyday items can be turned into musical instruments"
     - number: "3"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/production.png"
-      title: "Create a High-quality Production"
-      description: "The specific steps and tools you need to create a world-class course that makes an impact"
+      
+      title: "Learn How to Play in A Group"
+      description: "Our groudbreaking resources use simple colour coded music notation designed to make group music making fun and easy."
     - number: "4"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/marketing.png"
-      title: "Pre-Launch Marketing"
-      description: "The specific landing pages and e-mail campaign copy and guidelines you need to build excitement before your course is ready"
+      
+      title: "Get that Swing"
+      description: "Perform rhythms with DabbledooMusic drummer 'Igor the Octopus', the worlds greatest percussionist "
     - number: "5"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/selling.png"
-      title: "Complete Guide to Selling"
-      description: "The most effective strategies and tactics that Fedora has seen 1000+ courses on its platform employ"
+      
+      title: "Sing Sing Sing"
+      description: "Our resident musical maestro, "Jazz Cat" will teach you everything you need to know about singing, performing and composing simple melodies"
     - number: "6"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/business.png"
-      title: "Building a Business"
-      description: "Ensuring ridiculously happy students that will tell others about your course and how to create a future digital product pipeline"
+      
+      title: "Create Your Own Musical Ensemble"
+      description: "We have hours of music making fun designed for four or more people. With our special system of music notation, the more the merrier!. "
 
 signup:
   title: "Get a free lesson when this course launches"
