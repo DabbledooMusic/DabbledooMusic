@@ -17,24 +17,14 @@ learn:
     - number: "1"
       
       title: "How to Use DabbledooMusic.com"
-      description: "A guide to our amazing interactive website though video tutorials and fun activities."
+      description: "A guide to our amazing interactive website though video tutorials and fun activities. The website is 100% free with no login or sign up!"
     - number: "2"
       title: "How to Make Your own Instruments"
       description: "Music is all around you, and so are the instruments. We will show you how every-day objects can become part of a homemade orchestra."
     - number: "3"
-      title: "How to Get That Swing"
+      title: "How to Play Together"
       description: "You will learn rhythm from the world's greatest percussionist 'Igor the Octopus'."
-    - number: "4"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/marketing.png"
-      title: "To Sing Sing Sing"
-      description: "Our resident musical maestro 'Jazz Cat' will show you how to perform and create your own melodies."
-    - number: "5"
-      title: "Complete Guide to Selling"
-      description: "The most effective strategies and tactics that Fedora has seen 1000+ courses on its platform employ"
-    - number: "6"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/business.png"
-      title: "Building a Business"
-      description: "Ensuring ridiculously happy students that will tell others about your course and how to create a future digital product pipeline"
+   
 
 signup:
   title: "Get a free lesson when this course launches"
