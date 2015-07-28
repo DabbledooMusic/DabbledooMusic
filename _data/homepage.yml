@@ -31,12 +31,12 @@ signup:
   button: "Sign me up"
 
 letter:
-  title: "A Letter from John<br/><small>Co-Founder at Bitfountain.io</small>"
-  subtitle: "Online Courses are the Future of Media"
+  title: "A Letter from Shane<br/><small>Co-Founder at DabbledooMusic</small>"
+  subtitle: "Music Making For Everyone"
   image: "https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/1a3/3b4/31df92b.jpg"
   contents:
-    - paragraph: "<strong>Everything we knew about education has changed.</strong>"
-    - paragraph: "When we first started teaching online we had no idea it was possible to make this type of impact with teaching."
+    - paragraph: "<strong>Time to change the way we make music together.</strong>"
+    - paragraph: "As a music teacher and musician I realise how difficult a subject it is to approach. ."
     - paragraph: "Now, one year in, we realize this isn’t a fluke. If John and I could start from ground zero to create and make these courses successful, we think really anyone can."
     - paragraph: "Unlike before, all of the means of producing a course are at your grasp."
     - paragraph: "Instead of going through the hassle we did of not being certain about what works, we’ve tested a variety of tools to create the course as well as marketing channels, and can show you how to get your own school up quickly."
