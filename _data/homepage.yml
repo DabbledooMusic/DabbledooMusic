@@ -123,19 +123,17 @@ signup_2:
 faq:
   title: "Frequently Asked Questions"
   qa:
-    - question: "Is this course applicable for people that are already teaching online?"
-      answer: "Absolutely. In fact, if you are already teaching online, chances are you'd be able to recoup your investment in this course in a matter of days by following some of the more advanced marketing strategies discussed. Even experienced course creators will be able to benefit from some of the production hacks shared by Bitfountain - in addition, to the marketing knowledge of course."
+    - question: "Do I need to have musical experience to make music at home?"
+      answer: "No previous experience required. We will take you step by step through the basics of music making to get you playing away"
     - question: "How much does this course cost?"
-      answer: "We have not determined pricing yet - but it will likely be around $100 for a limited time after launch."
+      answer: "We will be offereing the course to early subscribers for $20."
     - question: "When will this course open?"
-      answer: "We're looking to launch the course for a couple of days around December 15th. After opening enrollments for a couple of days, we are going to focus on helping the students inside the course achieve results. Based on how much time we have to invest, we may open up sign ups again in the future. To ensure you don't miss out on a spot, write a note to watch your email around December 15th. "
-    - question: "Is there any specialized equipment that I will need?"
-      answer: "While technically all you need to launch your course will be an internet connection, laptop and mic, as your business grows we'll walk you through using the specific recording equiptment we've used to create high-quality productions. Additionally, all the software products discussed in the course such as Fedora, ConvertKit and SumoMe will be available as a free bonus to anyone who purchases the course."
+      answer: "We will be launching the course at the end of August 2015."
     - question: "What is the refund policy?"
       answer: "If you are unhappy with the course for absolutely any reason 30 days after purchase, we'll refund 100% of your money without asking any questions."
 
 footer:
-  copyright: "&copy; 2014, Million Dollar Instructor"
+  copyright: "&copy; 2015, DabbledooMusic"
   contact: "Get in touch"
-  email: "ankur@usefedora.com"
+  email: "shane@dabbledoomusic.com"
       
