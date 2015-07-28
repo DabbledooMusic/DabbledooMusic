@@ -19,7 +19,6 @@ learn:
       title: "How to Use DabbledooMusic.com"
       description: "A guide to our amazing interactive website"
     - number: "2"
-      icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/research.png"
       title: "Research, Script Writing "
       description: "Research and script writing techniques that will save you countless hours of production time"
     - number: "3"
