@@ -148,28 +148,26 @@ a {
     border-bottom: 3px solid fade-out($button-color, 0.9);
     padding-bottom: 3px;
   }
--  table {
--    th {
--      background: fade-out($button-color, 0.88);
--      border-bottom: 2px solid #fff !important;
--    }
--    td {
--      background: fade-out($button-color, 0.93);
+  table {
+    th {
+      background: fade-out($button-color, 0.88);
+      border-bottom: 2px solid #fff !important;
+    }
+    td {
+      background: fade-out($button-color, 0.93);
  
--      &.amount{
--        color: #57986d;
--      }
--    }
--    td, th {
--      text-align: center;
--      border-left: 1px solid #fff;
--      border-bottom: 1px solid #fff;
--      padding: 15px !important;
--    }
--  }
--}
-
-
+      &.amount{
+        color: #57986d;
+      }
+    }
+    td, th {
+      text-align: center;
+      border-left: 1px solid #fff;
+      border-bottom: 1px solid #fff;
+      padding: 15px !important;
+    }
+  }
+}
 
 /* Learn */
 .point {
