@@ -33,7 +33,7 @@ signup:
 letter:
   title: "A Letter from Shane<br/><small>Co-Founder at DabbledooMusic</small>"
   subtitle: "Music Making For Everyone"
-  image: "https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/1a3/3b4/31df92b.jpg"
+  image: "http://beta.dabbledoomusic.com/img/shane-mckenna.png"
   contents:
     - paragraph: "<strong>Time to change the way we make music together.</strong>"
     - paragraph: "As a music teacher and musician I realise how difficult a subject it is to approach. ."
