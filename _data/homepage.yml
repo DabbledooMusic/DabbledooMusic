@@ -1,7 +1,7 @@
 hero:
   image: "https://farm1.staticflickr.com/412/20151200865_df4cd2038e_o.jpg"
   heading: "Make Music at Home With Your Children - A DIY Course for Parents"
-  subtitle: "A simple guide to making music at home with your children, using an amazing free online resource."
+  subtitle: "A simple guide to making music at home with your children, using an amazing free online resource. Ages 5 - 12."
 
 
 about:
@@ -57,7 +57,7 @@ faq:
   qa:
     - question: "What age group is this suitable for?"
       answer: "The online resources at dabbledoomusic.com are designed to suit ages 5 to 12"
-    - question: "How much does this course cost?"
+    - question: "How much will this course cost?"
       answer: "The course will be $20 for early subscribers."
     - question: "When will this course open?"
       answer: "The course will open at the end of August 2015. Once you join the course you can take as much time as you like going through each section. "
